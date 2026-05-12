@@ -1,0 +1,15 @@
+span {
+    color: lightseagreen;
+}
+
+.cor-nome {
+    color: red;
+}
+
+.cor-hex {
+    color: #c45445;
+}
+
+.cor-rgb {
+    color: rgb(150, 250, 10)
+}
