@@ -1,5 +1,7 @@
 span {
     color: lightseagreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
 }
 
 .cor-nome {
@@ -12,4 +14,25 @@ span {
 
 .cor-rgb {
     color: rgb(150, 250, 10)
+}
+
+div {
+    width: 50%;
+    left: 25%;
+    margin-top: 100px;
+    background-color: aliceblue;
+    text-align: center;
+    position: relative;
+    border: 10px solid color(black);
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    background-image: url(https://wallup.net/wp-content/uploads/2016/01/80617-Corinthians-soccer.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
 }

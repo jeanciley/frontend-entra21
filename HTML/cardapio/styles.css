@@ -1,0 +1,22 @@
+div {
+    background-color: aliceblue;
+    text-align: left;
+    border: 10px solid color(black);
+    box-sizing: border-box;
+    width: 250px;
+}
+
+h2 {
+    font-weight: bold;
+    text-align: left;
+}
+
+.preco {
+    border: 2px solid;
+    border-color: greenyellow;
+    color: green;
+    background-color: #ccff99;
+    width: fit-content;     
+    padding: 5px 15px;      
+    text-align: left;
+}
