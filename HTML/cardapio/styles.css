@@ -1,22 +1,24 @@
-div {
-    background-color: aliceblue;
-    text-align: left;
-    border: 10px solid color(black);
-    box-sizing: border-box;
-    width: 250px;
+.card {
+    background-color: white;
+    border: 1px solid;
+    width: 315px;
+    padding: 8px 24px 24px 24px; 
 }
 
 h2 {
-    font-weight: bold;
-    text-align: left;
+    color: #bd3f31;
 }
 
-.preco {
-    border: 2px solid;
-    border-color: greenyellow;
-    color: green;
-    background-color: #ccff99;
+.caixa-preco {
+    border: 1px solid #23ac65;
     width: fit-content;     
-    padding: 5px 15px;      
-    text-align: left;
+    padding: 0px 5px;      
+    background-color: #d5f1e3;
+    color: #23ac65;
+    font-weight: 500;
+}
+
+body {
+    background-color: bisque;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
